@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+#DATE=$(date +'%A %d %b %Y')
+DATE=$(date +'%H:%M')
+
+# get current month
+MONTH=$(date +'%m')
+
+echo "%{A:gsimplecal &:}%{F$COLOR}$IMAGE%{F-} $DATE%{A}"

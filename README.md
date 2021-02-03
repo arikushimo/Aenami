@@ -23,4 +23,5 @@
 | siji-git |Polybar font
 | ttf-unifont | Polybar font
 | gsimplecal | Polybar calendar
+| picom| Compositor
 
